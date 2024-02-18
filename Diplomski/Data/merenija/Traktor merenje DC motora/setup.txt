@@ -1,0 +1,36 @@
+1,2,3:
+    T=1s
+    Duty Cycle = 50%
+    Amp = 8Vpp
+    Offset = +4Vdc
+    Vcc ~ (1,2,3)V
+    
+    osc time : 100ms * 10 = 1s
+
+4,6:
+    T=2s
+    Duty Cycle = 50%
+    Amp = 8Vpp
+    Offset = +4Vdc
+    Vcc ~ (4,6,8)V
+    
+    osc time : 250ms * 10 = 2.5s
+
+8:
+    T=4s
+    Duty Cycle = 50%
+    Amp = 8Vpp
+    Offset = +4Vdc
+    Vcc ~ (4,6,8)V
+    
+    osc time : 250ms * 10 = 2.5s
+
+
+
+8 - 2kHz
+6 - 1.4kHz
+4 - 925 kHz
+3 - 670Hz
+2 - 400Hz
+1 - 140Hz
+

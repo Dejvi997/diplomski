@@ -1,0 +1,4 @@
+5-0V gen
+1s T
+
+merenje karakteristike motora samo

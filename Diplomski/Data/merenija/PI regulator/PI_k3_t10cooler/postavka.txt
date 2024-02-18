@@ -1,0 +1,4 @@
+gen signala
+    3.6 - 4 V
+    0.5 Hz
+    2kOhm na diodama u ulazu pojacavaca

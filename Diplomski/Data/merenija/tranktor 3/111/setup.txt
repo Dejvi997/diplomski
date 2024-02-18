@@ -1,0 +1,6 @@
+mereno i sa arduinom
+GEN:
+    LOW 0.5V
+    HIGH 3V
+OpAmp + PA + DC
+Python folder OpAmpDC

@@ -1,0 +1,37 @@
+\babel@toc {serbian}{}\relax 
+\contentsline {section}{\numberline {1}Teorijski uvod}{2}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1}Analogni sistemi automatskog upravljanja}{2}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2}Motor stalne struje}{3}{subsection.0.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Princip funkcionisanja}{3}{subsubsection.0.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Odskočni odziv}{4}{subsubsection.0.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}Rotacioni enkoder}{4}{subsection.0.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Princip funkcionisanja}{4}{subsubsection.0.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Pretvarač učestanosti u napon}{5}{subsubsection.0.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Pretvarač učestanosti u napon sa NF filtrom}{6}{subsubsection.0.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}Princip negativne povratne sprege}{7}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {1.5}Regulatori}{8}{subsection.0.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}\textit {Bang-bang} regulator}{8}{subsubsection.0.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}P regulator}{9}{subsubsection.0.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}PI regulator}{9}{subsubsection.0.1.5.3}%
+\contentsline {subsection}{\numberline {1.6}Pojačavač snage}{10}{subsection.0.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Pojačavač snage u klasi B}{10}{subsubsection.0.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Pojačavač snage u klasi B sa negativnom povratnom spregom}{12}{subsubsection.0.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Pojačavač snage u klasi AB sa negativnom povratnom spregom}{12}{subsubsection.0.1.6.3}%
+\contentsline {section}{\numberline {2}Karakteristike korišćenih komponenti sistema}{14}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}Identifikacija modela motora}{14}{subsection.0.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Merenje odziva motora}{14}{subsubsection.0.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Merenje prenosne statičke karakteristike motora sa i bez filtra na izlazu}{16}{subsubsection.0.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Merenje karakteristika pretvarača učestanosti}{17}{subsection.0.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Karakteristika pretvarača bez filtra}{17}{subsubsection.0.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Karakteristika pretvarača sa filtrom}{17}{subsubsection.0.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Merenje karakteristika pojačavača snage}{19}{subsection.0.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Statička prenosna karakteristika}{19}{subsubsection.0.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Dinamička prenosna karakteristika sa i bez dioda}{20}{subsubsection.0.2.3.2}%
+\contentsline {section}{\numberline {3}Rezultati i diskusija}{21}{section.0.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}Obrada rezultata merenja}{21}{subsubsection.0.3.0.1}%
+\contentsline {subsection}{\numberline {3.1}Sistem sa poboljšanjima pojačavača snage}{22}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Sistem sa poboljšanjima senzora}{23}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Sistem sa promenjenim regulatorom}{23}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}Nelinearna ograničenja sistema}{27}{subsection.0.3.4}%
+\contentsline {section}{\numberline {4}Zaključak}{28}{section.0.4}%
+\contentsfinish 

@@ -1,0 +1,5 @@
+Gen:
+    Amp 6V
+    Low 0V
+    freq 100Hz
+    

@@ -1,0 +1,7 @@
+signal generatora:
+    3.5V-4V 0.5Hz
+    mrerenje celog sistema sa PI regulatorom - ulazni signal zuto i feedback signal plavo
+    Kp = 3
+    Ti = 100ms
+    ulaz na plus izlaz na minus
+    +-5V na PA ostalo +-20V

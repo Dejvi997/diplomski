@@ -1,0 +1,5 @@
+ulazni napon
+3-4 volta
+meren CH1 ulazni signal
+CH2 napon na motoru
+

@@ -1,0 +1,8 @@
+Generator signala
+step 1Hz 3-4 V
+napajanje, 5V arduino ENC
+           VCC1
+    +5V (+6) PA pozitivno
+    +6V (+20) OPAMPs
+            VCC2
+    -5V (+6) PA negativno

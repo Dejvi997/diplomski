@@ -1,0 +1,6 @@
+generator signala
+    3.6V- 4V
+    0.5Hz
+    kp = 3
+    Ti = 100ms
+    2kOhm u diodnoj konekciji

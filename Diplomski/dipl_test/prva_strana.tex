@@ -1,0 +1,182 @@
+\documentclass[a4paper, 12pt, diplomski]{etf}
+
+\usepackage{cmsrb}
+\usepackage[OT2,T1]{fontenc}
+
+\usepackage[intlimits]{amsmath}
+\usepackage{amsmath, amsfonts, amssymb, graphicx}
+\usepackage{cite}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+
+\usepackage{icomma}
+%\usepackage{upgreek}
+
+\usepackage{mathrsfs}
+
+\usepackage{float}
+
+
+\usepackage[
+    type={CC},
+    modifier={by-sa},
+    version={4.0},
+]{doclicense}
+
+%%%% XELATEX
+
+\usepackage{fontspec}
+\usepackage{indentfirst}
+%\usepackage[margin = 0.5in]{geometry}
+%\usepackage[margin=1in]{geometry}
+\usepackage{titletoc}
+\usepackage[Symbolsmallscale]{upgreek}
+\usepackage[serbian]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage{icomma}
+\usepackage{cancel}
+\usepackage{physics}
+\usepackage{tikz}
+\usepackage{environ}
+\usepackage[thinc]{esdiff}
+\everymath{\displaystyle}
+\usepackage{listings}
+\usepackage{url}
+\usepackage{xcolor}
+ 	\usepackage{enumerate}
+\usepackage[bottom]{footmisc}
+
+\usepackage{setspace}
+%\doublespacing
+
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{pythonC0}{HTML}{1F77B4} 
+\definecolor{pythonC1}{HTML}{FF7F0E} 
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+\usepackage{etoolbox}
+\patchcmd{\thebibliography}{\chapter*}{\section*}{}{}
+
+\addto{\captionsserbian}{%
+  \renewcommand{\bibname}{Literatura}
+}
+
+\usepackage{accents}
+%\newcommand{\ul}[1]{\underaccent{\bar}{#1}}
+\newcommand{\ubar}[1]{\mkern3mu\underline{\mkern-3mu #1\mkern-3mu}\mkern3mu}
+
+\usepackage{mathtools}
+%\newcommand{\ubar}[1]{\mathrlap{\underline{\vphantom{#1}\hphantom{\textup{#1}}}}#1}
+
+\righthyphenmin1
+\lefthyphenmin1
+
+\newcommand{\navod}[1]{„#1“}
+\renewcommand{\unit}[1]{\,{\rm #1}}   %-----------------
+%\usepackage{mathptmx}
+%\setmainfont{Times New Roman}'
+\newcommand{\DS}{\displaystyle}
+%\newcommand{\faz}[1]{\underbar{#1}}
+
+\usepackage{accents}
+\newcommand{\faz}[1]{\underaccent{\bar}{#1}}
+
+%%%
+
+%\title{
+%Implementacija i postupak kalibracije skalarnog analizatora %mreža 
+%u opsegu mikrotalasnih učestanosti 300\,MHz -- 3\,GHz
+%}
+%\author{Danilo Đokić}
+%\indeks{2016/0116}
+%\date{Septembar 2020.}
+%\mentor{doc. dr Slobodan Savić}
+%\predmet{}
+
+\frenchspacing
+
+\begin{document}
+
+%\fontencoding{OT2}\selectfont
+
+%\maketitle
+
+\begin{center}
+    {
+    \Large
+    \textsc{Univerzitet u Beogradu} \\
+    \textsc{Elektrotehnički fakultet} \\
+	
+	\vspace{22pt}    
+    
+    %\includegraphics[scale=.5]{fig/etf-logo-lat.jpg}
+    \includegraphics[scale=.5]{fig/etf_logo_korice.pdf}
+    
+    \vspace{3.5cm}
+    
+    \vfill
+    
+    \LARGE
+    Upravljanje brzinom motora jednosmerne struje primenom analogne negativne povratne sprege
+    } \\[2mm]
+    {\large Diplomski rad}
+    
+	\vspace{3.5cm}    
+    
+    \vfill
+    
+    \large 
+    
+    \begin{minipage}[t]{.49\textwidth}
+    \begin{flushleft}    
+    Mentor:     \\
+    Dr Radivoje Đurić, \\
+    vanredni profesor
+    \end{flushleft}
+    \end{minipage}
+    \begin{minipage}[t]{.49\textwidth}
+    \begin{flushright}
+    Kandidat: \\
+    David Milovanović, 2016/0274
+    \end{flushright}
+    \end{minipage}
+
+    
+    \vfill   
+    
+    Beograd, Septembar 2022.
+\end{center}
+
+\thispagestyle{empty}
+
+\end{document}

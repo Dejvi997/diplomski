@@ -1,0 +1,43 @@
+\babel@toc {serbian}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Principska šema jednosmernog motora.\relax }}{3}{figure.caption.3}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Modelovana karakteristika jednosmernog motora.\relax }}{4}{figure.caption.4}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Enkoder.\relax }}{5}{figure.caption.5}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Pretvarač frekvencije u napon.\relax }}{6}{figure.caption.6}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Šema NF filra\relax }}{7}{figure.0.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Prenosna karakteristika NF filtra.\relax }}{7}{figure.0.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Opšta struktura sistema sa negativnom povratnom spregom.\relax }}{7}{figure.caption.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Blok šema sistema sa $\Pi $ regulatorom.\relax }}{9}{figure.caption.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Blok šema PI regulatora.\relax }}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Blok šema sistema sa PI regulatorom sa jediničnom povratnom spregom.\relax }}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Pojačavač snage u klasi B.\relax }}{11}{figure.0.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Prenosna karakteristika pojačavača u klasi B, za napon $|V_{\rm B \rm E}| = 0.7 \rm V$.\relax }}{11}{figure.0.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Vremenski dijagram ulaznog i izlaznog signala.\relax }}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Pojačavač snage u klasi B sa negativnom povratnom spregom.\relax }}{12}{figure.caption.12}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Pojačavač snage u klasi AB.\relax }}{13}{figure.0.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Prenosna karakteristika pojačavača u klasi AB.\relax }}{13}{figure.0.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Pojačavač snage u klasi AB sa negativnom povratnom spregom.\relax }}{13}{figure.caption.13}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Eksperimentalna postavka za merenje odziva jednosmernog motora.\relax }}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Određivanje optimalnog modela motora na osnovu merenog odskočnog odziva.\relax }}{15}{figure.caption.15}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Vremenski oblik signala na izlazu enkodera, prilikom ubrzanja motora.\relax }}{16}{figure.0.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Izmerena vremenska zavisnost frekvencije signala na izlazu enkodera i model sa parametrima: $K_{\rm m} = 679$ i $T_{\rm m} = 481 \, \rm {ms}$.\relax }}{16}{figure.0.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Statička prenosna karakteristika celog sistema.\relax }}{16}{figure.0.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Statička prenosna karakteristika celog sistema sa NF filtrom.\relax }}{16}{figure.0.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Odziv konvertora na pobudu konstante frekvencije.\relax }}{17}{figure.0.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Odziv konvertora na skokovitu promenu frekvencije pobudnog napona.\relax }}{17}{figure.0.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Odziv konvertora sa filtrom na pobudu konstante frekvencije.\relax }}{18}{figure.0.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Odziv konvertora sa filtrom na pobudu sa promenljivom frekvencijom.\relax }}{18}{figure.0.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Vremenski dijagram signala na izlazu konvertora frekvencije u napon bez i sa filtrom na izlazu.\relax }}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Prenosna karakteristika pretvarača učestanosti.\relax }}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Izmerena statička karakteristika pojačavača u klasi B.\relax }}{20}{figure.0.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Izmerena statička karakteristika pojačavača u klasi AB.\relax }}{20}{figure.0.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Odskočni odziv pojačavača snage.\relax }}{20}{figure.0.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Odziv pojačavača na signal rampe učestanosti $f = 100 [\rm {kHz}]$.\relax }}{20}{figure.0.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Odnos normalizovane relativne greške u odnosu na normalizovanu frekvenciju.\relax }}{22}{figure.caption.18}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Električna šema projektovanog PI regulatora.\relax }}{24}{figure.caption.19}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Usrednjen relativni odziv sistema $H(s)$ i njegov model.\relax }}{25}{figure.caption.20}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Odskočni odziv sistema sa parametrima PI regulatora $K_{\rm p} = 3$ i $T_{\rm i} = 10 \, \rm {ms}$.\relax }}{25}{figure.caption.21}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Odskočni odziv sistema sa parametrima PI regulatora $K_{\rm p} = 3$ i $T_{\rm i} = 100 \, \rm {ms}$.\relax }}{26}{figure.caption.22}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Polovi i nule prenosne funkcije za sistem bez preskoka.\relax }}{26}{figure.0.39}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Polovi i nule prenosne funkcije za sistem sa preskokom.\relax }}{26}{figure.0.40}%
+\contentsfinish 
+\contentsfinish 
